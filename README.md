@@ -76,6 +76,7 @@
 
 ###
 
+<h3>Profile views:</h2>
 <div align="center">
   <img src="https://profile-counter.glitch.me/sebmid/count.svg?"  />
 </div>
