@@ -3,6 +3,8 @@
 ###
 
 <img align="right" height="150" src="https://i.gifer.com/3IsJ.gif"  />
+<h3 align="left"> Projects: </h3>
+<a href="https://github.com/TheAtlasRepository/ImgPDF2Map">Image2Map</a>
 
 ###
 <h3 align="middle"> Skillz </h3>
@@ -62,17 +64,7 @@
 </div>
 
 ###
-<h3 align="middle">------------------------------------------------------------------------------------------------------------------------</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/sebastianmidtskogen/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
-<h3 align="middle">------------------------------------------------------------------------------------------------------------------------</h3>
-<h3 align="left"> Projects: </h3>
-<a href="https://github.com/TheAtlasRepository/ImgPDF2Map">Image2Map</a>
 <h3 align="middle">------------------------------------------------------------------------------------------------------------------------</h3>
 
 <br clear="both">
