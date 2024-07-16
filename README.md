@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sebastian and I'm a bachelor student taking IT and information systems, from Norway.</h2>
+<h2 align="left">Hi 👋! My name is Sebastian and I'm a bachelor student from Norway taking IT and information systems.</h2>
 
 ###
 
